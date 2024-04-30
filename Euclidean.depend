@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1714474099 source:c:\users\nales\code block\euclidean\main.cpp
+	<iostream>
+	<cmath>
+
